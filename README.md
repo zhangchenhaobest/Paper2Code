@@ -1,3 +1,29 @@
+# Paper2Code
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+从机器学习科学论文自动生成代码的 Paper2Code。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # 📄 Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
 
 **Minju Seo, Jinheon Baek†, Seongyun Lee, and Sung Ju Hwang†** († denotes equal advising)  
